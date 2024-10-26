@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidtermZhifu</string>
+    <string name="the_perimeter_of_the_square">The perimeter of the square:</string>
+    <string name="input_the_side_of_the_square">Input the side of the square</string>
+    <string name="no_data">--</string>
+    <string name="computes_the_perimeter_of_a_square">Computes the perimeter of a square</string>
+    <string name="invalid_input">invalid input!</string>
+</resources>
